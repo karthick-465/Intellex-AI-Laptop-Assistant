@@ -1,0 +1,10 @@
+pyautogui
+pyttsx3
+SpeechRecognition
+PyAudio
+screen-brightness-control
+scikit-learn
+tensorflow
+pandas
+numpy
+openpyxl
